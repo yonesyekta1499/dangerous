@@ -20,6 +20,8 @@ do local _ = {
     "leave",
     "lock_bots",
     "me"
+    "join"
+    "group_manager"
   },
   group = {
     data = "bot/group.json"
